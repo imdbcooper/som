@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+{% include "navbar.html" %}
+
+<div class="blog-container">
+  {{ content | safe }}
+</div>
+
+<style>
+  .blog-container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+</style>
