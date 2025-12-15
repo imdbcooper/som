@@ -1,5 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/published/blog/kak-nastroit-digital-garden-obsidian/","title":"Как настроить Digital-Garden + Obsidian","tags":["obsidian","productivity","tutorial"]}
+dg-publish: true
+permalink: /published/blog/kak-nastroit-digital-garden-obsidian/
+title: "Как настроить Digital-Garden + Obsidian"
+tags:
+  - obsidian
+  - productivity
+  - tutorial
+date: 2025-12-15
+excerpt: "Создать свой личный сайт бесплатно Digital-Garden + Obsidian"
+category: "Статья"
+emoji: "📝"
+published: true
 ---
 
 
