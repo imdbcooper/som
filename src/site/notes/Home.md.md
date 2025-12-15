@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-md/","title":"Вячеслав Смирнов | Разработчик","tags":["gardenEntry"],"created":"2025-12-15T12:46:45.440+03:00","updated":"2025-12-15T12:50:02.174+03:00"}
+{"dg-publish":true,"permalink":"/home-md/","title":"Вячеслав Смирнов | Разработчик","tags":["gardenEntry"]}
 ---
 
 
